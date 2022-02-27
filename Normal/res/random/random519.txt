@@ -1,0 +1,2 @@
+mu_Mu, sigma2_Mu, alpha_Lambda, beta_Lambda, d, k0, k1, nlabel, ntrace, nchain, nskip, Ntrain, Ntest, Nfold, a, supervised, unsupervised, supervised_1, supervised_2, supervised_3, supervised_4, supervised_5, unsupervised_1, unsupervised_2, unsupervised_3, unsupervised_4, unsupervised_5
+0,657.6015395277806,7.827764715965118,0.9783963570542564,20,1,10,7,500,2,2,200,100,5,2.3902224610649494,0.34,0.11,0.5,0.4,0.4,0.4,0.225,0.225,0.275,0.175,0.25,0.2
