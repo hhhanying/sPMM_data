@@ -1,0 +1,94 @@
+000 (15165477.044.000) 2022-02-28 00:26:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165477.044.000) 2022-02-28 00:52:21 Started transferring input files
+	Transferring to host: <128.104.58.156:9618?addrs=128.104.58.156-9618+[2607-f388-1086-0-16fe-b5ff-fec6-7cb7]-9618&alias=e1008.chtc.wisc.edu&noUDP&sock=slot1_31_41196_0f04_27050>
+...
+040 (15165477.044.000) 2022-02-28 00:52:26 Finished transferring input files
+...
+001 (15165477.044.000) 2022-02-28 00:52:28 Job executing on host: <128.104.58.156:9618?addrs=128.104.58.156-9618+[2607-f388-1086-0-16fe-b5ff-fec6-7cb7]-9618&alias=e1008.chtc.wisc.edu&noUDP&sock=startd_4960_b9d5>
+...
+006 (15165477.044.000) 2022-02-28 00:59:15 Image size of job updated: 169
+	169  -  MemoryUsage of job (MB)
+	173956  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:04:15 Image size of job updated: 1016
+	1016  -  MemoryUsage of job (MB)
+	1040484  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:09:16 Image size of job updated: 1170
+	1170  -  MemoryUsage of job (MB)
+	1198588  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:14:17 Image size of job updated: 1224
+	1224  -  MemoryUsage of job (MB)
+	1253640  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:19:17 Image size of job updated: 1431
+	1431  -  MemoryUsage of job (MB)
+	1465888  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:24:18 Image size of job updated: 1661
+	1661  -  MemoryUsage of job (MB)
+	1701636  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:29:18 Image size of job updated: 1910
+	1910  -  MemoryUsage of job (MB)
+	1956424  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:34:19 Image size of job updated: 1996
+	1996  -  MemoryUsage of job (MB)
+	2044536  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:39:20 Image size of job updated: 2025
+	2025  -  MemoryUsage of job (MB)
+	2074420  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:44:20 Image size of job updated: 2062
+	2062  -  MemoryUsage of job (MB)
+	2112380  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:49:20 Image size of job updated: 2153
+	2153  -  MemoryUsage of job (MB)
+	2205576  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:54:21 Image size of job updated: 2289
+	2289  -  MemoryUsage of job (MB)
+	2344184  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 01:59:22 Image size of job updated: 2461
+	2461  -  MemoryUsage of job (MB)
+	2520140  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:04:23 Image size of job updated: 2645
+	2645  -  MemoryUsage of job (MB)
+	2708720  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:09:23 Image size of job updated: 2834
+	2834  -  MemoryUsage of job (MB)
+	2902612  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:14:24 Image size of job updated: 3075
+	3075  -  MemoryUsage of job (MB)
+	3149024  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:19:25 Image size of job updated: 3327
+	3327  -  MemoryUsage of job (MB)
+	3407420  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:24:25 Image size of job updated: 3578
+	3578  -  MemoryUsage of job (MB)
+	3664764  -  ResidentSetSize of job (KB)
+...
+006 (15165477.044.000) 2022-02-28 02:29:25 Image size of job updated: 3583
+	3583  -  MemoryUsage of job (MB)
+	3669184  -  ResidentSetSize of job (KB)
+...
+007 (15165477.044.000) 2022-03-03 00:52:21 Shadow exception!
+	Error from slot1_31@e1008.chtc.wisc.edu: Job failed to complete in 72 hrs
+	0  -  Run Bytes Sent By Job
+	131040264  -  Run Bytes Received By Job
+...
+012 (15165477.044.000) 2022-03-03 00:52:21 Job was held.
+	Error from slot1_31@e1008.chtc.wisc.edu: Job failed to complete in 72 hrs
+	Code 21 Subcode 0
+...

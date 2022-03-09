@@ -1,0 +1,77 @@
+000 (15165477.004.000) 2022-02-28 00:26:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165477.004.000) 2022-02-28 00:43:23 Entered queue to transfer input files
+	Transferring to host: <128.105.245.94:9618?addrs=128.105.245.94-9618&alias=e2294.chtc.wisc.edu&noUDP&sock=slot1_15_31991_4dae_26311>
+...
+040 (15165477.004.000) 2022-02-28 00:43:42 Started transferring input files
+	Seconds spent in queue: 19
+...
+001 (15165477.004.000) 2022-02-28 00:43:51 Job executing on host: <128.105.245.94:9618?addrs=128.105.245.94-9618&alias=e2294.chtc.wisc.edu&noUDP&sock=startd_2082_a845>
+...
+040 (15165477.004.000) 2022-02-28 00:43:51 Finished transferring input files
+...
+006 (15165477.004.000) 2022-02-28 00:44:25 Image size of job updated: 46
+	46  -  MemoryUsage of job (MB)
+	47948  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 00:49:25 Image size of job updated: 1169
+	1169  -  MemoryUsage of job (MB)
+	1197520  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 00:59:26 Image size of job updated: 1507
+	1507  -  MemoryUsage of job (MB)
+	1543824  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:04:27 Image size of job updated: 1881
+	1881  -  MemoryUsage of job (MB)
+	1927060  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:09:27 Image size of job updated: 1918
+	1918  -  MemoryUsage of job (MB)
+	1964700  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:14:28 Image size of job updated: 2018
+	2018  -  MemoryUsage of job (MB)
+	2067344  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:19:29 Image size of job updated: 2062
+	2062  -  MemoryUsage of job (MB)
+	2111828  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:24:30 Image size of job updated: 2199
+	2199  -  MemoryUsage of job (MB)
+	2251996  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:29:51 Image size of job updated: 2412
+	2412  -  MemoryUsage of job (MB)
+	2470712  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:34:30 Image size of job updated: 2642
+	2642  -  MemoryUsage of job (MB)
+	2706396  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:39:30 Image size of job updated: 2916
+	2916  -  MemoryUsage of job (MB)
+	2987000  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:44:30 Image size of job updated: 3213
+	3213  -  MemoryUsage of job (MB)
+	3290620  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:49:31 Image size of job updated: 3516
+	3516  -  MemoryUsage of job (MB)
+	3600752  -  ResidentSetSize of job (KB)
+...
+006 (15165477.004.000) 2022-02-28 01:54:31 Image size of job updated: 3537
+	3537  -  MemoryUsage of job (MB)
+	3622136  -  ResidentSetSize of job (KB)
+...
+007 (15165477.004.000) 2022-03-03 00:33:19 Shadow exception!
+	Error from slot1_15@e2294.chtc.wisc.edu: Docker job has gone over memory limit of 3584 Mb
+	0  -  Run Bytes Sent By Job
+	131040264  -  Run Bytes Received By Job
+...
+012 (15165477.004.000) 2022-03-03 00:33:20 Job was held.
+	Error from slot1_15@e2294.chtc.wisc.edu: Docker job has gone over memory limit of 3584 Mb
+	Code 34 Subcode 0
+...

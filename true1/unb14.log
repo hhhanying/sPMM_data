@@ -1,0 +1,89 @@
+000 (15165475.014.000) 2022-02-28 00:26:02 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165475.014.000) 2022-02-28 00:39:40 Started transferring input files
+	Transferring to host: <128.105.245.207:9618?addrs=128.105.245.207-9618&alias=e2407.chtc.wisc.edu&noUDP&sock=slot1_16_22645_3372_28179>
+...
+040 (15165475.014.000) 2022-02-28 00:39:41 Finished transferring input files
+...
+001 (15165475.014.000) 2022-02-28 00:39:43 Job executing on host: <128.105.245.207:9618?addrs=128.105.245.207-9618&alias=e2407.chtc.wisc.edu&noUDP&sock=startd_2377_00b5>
+...
+006 (15165475.014.000) 2022-02-28 00:44:53 Image size of job updated: 173
+	173  -  MemoryUsage of job (MB)
+	177516  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 00:49:54 Image size of job updated: 367
+	367  -  MemoryUsage of job (MB)
+	375924  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 00:54:55 Image size of job updated: 699
+	699  -  MemoryUsage of job (MB)
+	715944  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 00:59:55 Image size of job updated: 761
+	761  -  MemoryUsage of job (MB)
+	779388  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 01:09:57 Image size of job updated: 773
+	773  -  MemoryUsage of job (MB)
+	792340  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 01:14:57 Image size of job updated: 794
+	794  -  MemoryUsage of job (MB)
+	813736  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 01:19:58 Image size of job updated: 808
+	808  -  MemoryUsage of job (MB)
+	827624  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 01:25:14 Image size of job updated: 819
+	819  -  MemoryUsage of job (MB)
+	838936  -  ResidentSetSize of job (KB)
+...
+006 (15165475.014.000) 2022-02-28 01:33:10 Image size of job updated: 1142
+	1142  -  MemoryUsage of job (MB)
+	1169904  -  ResidentSetSize of job (KB)
+...
+040 (15165475.014.000) 2022-02-28 01:33:32 Entered queue to transfer output files
+...
+040 (15165475.014.000) 2022-02-28 01:39:04 Started transferring output files
+...
+007 (15165475.014.000) 2022-02-28 01:40:37 Shadow exception!
+	Assertion ERROR on (result)
+	46915  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+...
+040 (15165475.014.000) 2022-02-28 01:40:55 Entered queue to transfer input files
+	Transferring to host: <128.105.245.56:9618?addrs=128.105.245.56-9618&alias=e3256.chtc.wisc.edu&noUDP&sock=slot1_3_17338_f07a_22320>
+...
+040 (15165475.014.000) 2022-02-28 01:43:53 Started transferring input files
+	Seconds spent in queue: 178
+...
+001 (15165475.014.000) 2022-02-28 01:44:11 Job executing on host: <128.105.245.56:9618?addrs=128.105.245.56-9618&alias=e3256.chtc.wisc.edu&noUDP&sock=startd_3020_0c1a>
+...
+040 (15165475.014.000) 2022-02-28 01:46:35 Finished transferring input files
+...
+040 (15165475.014.000) 2022-02-28 02:19:46 Entered queue to transfer output files
+...
+040 (15165475.014.000) 2022-02-28 02:21:00 Started transferring output files
+	Seconds spent in queue: 2405
+...
+040 (15165475.014.000) 2022-02-28 02:22:17 Finished transferring output files
+...
+005 (15165475.014.000) 2022-02-28 02:22:52 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:54:30, Sys 0 00:01:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 02:10:21, Sys 0 00:02:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	34413  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+	81328  -  Total Bytes Sent By Job
+	262080512  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.00        1         1 
+	   Disk (KB)            : 163722      419431    909374 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :   1142        2151      2176 
+
+	Job terminated of its own accord at 2022-02-28T08:19:11Z with exit-code 0.
+...

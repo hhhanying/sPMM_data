@@ -1,0 +1,62 @@
+000 (15165481.015.000) 2022-02-28 00:26:13 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165481.015.000) 2022-02-28 01:25:18 Entered queue to transfer input files
+	Transferring to host: <128.105.245.37:9618?addrs=128.105.245.37-9618&alias=e3237.chtc.wisc.edu&noUDP&sock=slot1_5_30073_e620_23732>
+...
+040 (15165481.015.000) 2022-02-28 01:30:24 Started transferring input files
+	Seconds spent in queue: 306
+...
+001 (15165481.015.000) 2022-02-28 01:30:54 Job executing on host: <128.105.245.37:9618?addrs=128.105.245.37-9618&alias=e3237.chtc.wisc.edu&noUDP&sock=startd_4415_e6b8>
+...
+006 (15165481.015.000) 2022-02-28 01:31:20 Image size of job updated: 85
+	85  -  MemoryUsage of job (MB)
+	87596  -  ResidentSetSize of job (KB)
+...
+040 (15165481.015.000) 2022-02-28 01:31:20 Finished transferring input files
+...
+007 (15165481.015.000) 2022-02-28 01:34:20 Shadow exception!
+	Assertion ERROR on (result)
+	0  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+...
+040 (15165481.015.000) 2022-02-28 01:35:19 Entered queue to transfer input files
+	Transferring to host: <128.105.245.198:9618?addrs=128.105.245.198-9618&alias=e2398.chtc.wisc.edu&noUDP&sock=slot1_13_19764_469d_29314>
+...
+040 (15165481.015.000) 2022-02-28 01:35:47 Started transferring input files
+	Seconds spent in queue: 28
+...
+001 (15165481.015.000) 2022-02-28 01:36:11 Job executing on host: <128.105.245.198:9618?addrs=128.105.245.198-9618&alias=e2398.chtc.wisc.edu&noUDP&sock=startd_2358_f868>
+...
+040 (15165481.015.000) 2022-02-28 01:37:40 Finished transferring input files
+...
+006 (15165481.015.000) 2022-02-28 01:49:44 Image size of job updated: 996
+	996  -  MemoryUsage of job (MB)
+	1020236  -  ResidentSetSize of job (KB)
+...
+006 (15165481.015.000) 2022-02-28 01:57:03 Image size of job updated: 1688
+	1688  -  MemoryUsage of job (MB)
+	1729372  -  ResidentSetSize of job (KB)
+...
+040 (15165481.015.000) 2022-02-28 01:57:11 Started transferring output files
+	Seconds spent in queue: 1312
+...
+040 (15165481.015.000) 2022-02-28 01:57:14 Finished transferring output files
+...
+005 (15165481.015.000) 2022-02-28 01:57:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:28:41, Sys 0 00:00:44  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:28:42, Sys 0 00:00:44  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	208151  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+	208151  -  Total Bytes Sent By Job
+	262080512  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :   159386   419431    593318 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :     1688     2151      2176 
+
+	Job terminated of its own accord at 2022-02-28T07:57:03Z with exit-code 0.
+...

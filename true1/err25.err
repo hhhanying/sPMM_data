@@ -1,0 +1,13 @@
+[WARN  tini (7)] Tini is not running as PID 1 .
+Zombie processes will not be re-parented to Tini, so zombie reaping won't work.
+To fix the problem, run Tini as PID 1.
+WARNING (theano.tensor.blas): Using NumPy C-API based implementation for BLAS functions.
+Multiprocess sampling (2 chains in 4 jobs)
+CompoundStep
+>NUTS: [G]
+>CategoricalGibbsMetropolis: [Y]
+Sampling 2 chains for 1_000 tune and 1_000 draw iterations (2_000 + 2_000 draws total) took 1386 seconds.
+The chain contains only diverging samples. The model is probably misspecified.
+The chain contains only diverging samples. The model is probably misspecified.
+The rhat statistic is larger than 1.4 for some parameters. The sampler did not converge.
+The estimated number of effective samples is smaller than 200 for some parameters.

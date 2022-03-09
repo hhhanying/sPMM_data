@@ -1,0 +1,61 @@
+000 (15165481.053.000) 2022-02-28 00:26:13 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165481.053.000) 2022-02-28 01:38:58 Entered queue to transfer input files
+	Transferring to host: <128.105.245.90:9618?addrs=128.105.245.90-9618&alias=e290.chtc.wisc.edu&noUDP&sock=slot1_17_37152_b1e0_26815>
+...
+040 (15165481.053.000) 2022-02-28 01:42:44 Started transferring input files
+	Seconds spent in queue: 226
+...
+001 (15165481.053.000) 2022-02-28 01:43:09 Job executing on host: <128.105.245.90:9618?addrs=128.105.245.90-9618&alias=e290.chtc.wisc.edu&noUDP&sock=startd_2412_0285>
+...
+040 (15165481.053.000) 2022-02-28 01:43:30 Finished transferring input files
+...
+006 (15165481.053.000) 2022-02-28 01:44:02 Image size of job updated: 52
+	52  -  MemoryUsage of job (MB)
+	54188  -  ResidentSetSize of job (KB)
+...
+006 (15165481.053.000) 2022-02-28 01:49:03 Image size of job updated: 376
+	376  -  MemoryUsage of job (MB)
+	385024  -  ResidentSetSize of job (KB)
+...
+006 (15165481.053.000) 2022-02-28 01:54:04 Image size of job updated: 696
+	696  -  MemoryUsage of job (MB)
+	713708  -  ResidentSetSize of job (KB)
+...
+006 (15165481.053.000) 2022-02-28 01:59:04 Image size of job updated: 916
+	916  -  MemoryUsage of job (MB)
+	938700  -  ResidentSetSize of job (KB)
+...
+006 (15165481.053.000) 2022-02-28 02:04:05 Image size of job updated: 1226
+	1226  -  MemoryUsage of job (MB)
+	1255564  -  ResidentSetSize of job (KB)
+...
+006 (15165481.053.000) 2022-02-28 02:09:05 Image size of job updated: 1689
+	1689  -  MemoryUsage of job (MB)
+	1729992  -  ResidentSetSize of job (KB)
+...
+040 (15165481.053.000) 2022-02-28 02:09:27 Entered queue to transfer output files
+...
+040 (15165481.053.000) 2022-02-28 02:09:36 Started transferring output files
+	Seconds spent in queue: 1838
+...
+040 (15165481.053.000) 2022-02-28 02:09:40 Finished transferring output files
+...
+005 (15165481.053.000) 2022-02-28 02:09:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:34:52, Sys 0 00:01:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:34:52, Sys 0 00:01:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	208205  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+	208205  -  Total Bytes Sent By Job
+	131040256  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.00        1         1 
+	   Disk (KB)            : 159774      419431    670413 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :   1689        2151      2176 
+
+	Job terminated of its own accord at 2022-02-28T08:09:15Z with exit-code 0.
+...

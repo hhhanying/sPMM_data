@@ -1,0 +1,69 @@
+000 (15165475.039.000) 2022-02-28 00:26:02 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165475.039.000) 2022-02-28 00:39:48 Started transferring input files
+	Transferring to host: <128.104.58.113:9618?addrs=128.104.58.113-9618+[2607-f388-1086-0-ea9a-8fff-fe83-b4ee]-9618&alias=e473.chtc.wisc.edu&noUDP&sock=slot1_10_9439_6119_23077>
+...
+040 (15165475.039.000) 2022-02-28 00:39:51 Finished transferring input files
+...
+001 (15165475.039.000) 2022-02-28 00:39:54 Job executing on host: <128.104.58.113:9618?addrs=128.104.58.113-9618+[2607-f388-1086-0-ea9a-8fff-fe83-b4ee]-9618&alias=e473.chtc.wisc.edu&noUDP&sock=startd_3838_2093>
+...
+006 (15165475.039.000) 2022-02-28 00:51:12 Image size of job updated: 198
+	198  -  MemoryUsage of job (MB)
+	203092  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 00:56:13 Image size of job updated: 451
+	451  -  MemoryUsage of job (MB)
+	462568  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:01:15 Image size of job updated: 754
+	754  -  MemoryUsage of job (MB)
+	772748  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:11:15 Image size of job updated: 762
+	762  -  MemoryUsage of job (MB)
+	781304  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:16:15 Image size of job updated: 780
+	780  -  MemoryUsage of job (MB)
+	799436  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:21:15 Image size of job updated: 803
+	803  -  MemoryUsage of job (MB)
+	822924  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:26:16 Image size of job updated: 821
+	821  -  MemoryUsage of job (MB)
+	841164  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:31:17 Image size of job updated: 1133
+	1133  -  MemoryUsage of job (MB)
+	1160544  -  ResidentSetSize of job (KB)
+...
+006 (15165475.039.000) 2022-02-28 01:31:47 Image size of job updated: 1144
+	1144  -  MemoryUsage of job (MB)
+	1171500  -  ResidentSetSize of job (KB)
+...
+040 (15165475.039.000) 2022-02-28 01:34:32 Entered queue to transfer output files
+...
+040 (15165475.039.000) 2022-02-28 01:38:06 Started transferring output files
+...
+040 (15165475.039.000) 2022-02-28 01:41:10 Finished transferring output files
+...
+005 (15165475.039.000) 2022-02-28 01:41:58 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:09:28, Sys 0 00:00:59  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:09:28, Sys 0 00:00:59  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	37543  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+	37543  -  Total Bytes Sent By Job
+	131040256  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.00        1         1 
+	   Disk (KB)            : 163860      419431   7353656 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :   1144        2151      2176 
+
+	Job terminated of its own accord at 2022-02-28T07:31:47Z with exit-code 0.
+...

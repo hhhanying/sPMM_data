@@ -1,0 +1,74 @@
+000 (15165477.022.000) 2022-02-28 00:26:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165477.022.000) 2022-02-28 00:46:08 Started transferring input files
+	Transferring to host: <128.104.101.134:9618?addrs=128.104.101.134-9618+[2607-f388-107c-501-206-f6ff-fe30-b713]-9618&alias=e134.chtc.wisc.edu&noUDP&sock=slot1_3_23824_e9c2_34769>
+...
+001 (15165477.022.000) 2022-02-28 00:46:12 Job executing on host: <128.104.101.134:9618?addrs=128.104.101.134-9618+[2607-f388-107c-501-206-f6ff-fe30-b713]-9618&alias=e134.chtc.wisc.edu&noUDP&sock=startd_1962_58e7>
+...
+040 (15165477.022.000) 2022-02-28 00:46:12 Finished transferring input files
+...
+006 (15165477.022.000) 2022-02-28 00:51:39 Image size of job updated: 171
+	171  -  MemoryUsage of job (MB)
+	175288  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 00:56:40 Image size of job updated: 1169
+	1169  -  MemoryUsage of job (MB)
+	1197628  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:01:42 Image size of job updated: 1405
+	1405  -  MemoryUsage of job (MB)
+	1439712  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:06:42 Image size of job updated: 1907
+	1907  -  MemoryUsage of job (MB)
+	1953112  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:11:43 Image size of job updated: 1989
+	1989  -  MemoryUsage of job (MB)
+	2037204  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:16:43 Image size of job updated: 2022
+	2022  -  MemoryUsage of job (MB)
+	2071476  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:21:44 Image size of job updated: 2063
+	2063  -  MemoryUsage of job (MB)
+	2113420  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:26:45 Image size of job updated: 2208
+	2208  -  MemoryUsage of job (MB)
+	2261920  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:32:08 Image size of job updated: 2429
+	2429  -  MemoryUsage of job (MB)
+	2488060  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:36:46 Image size of job updated: 2665
+	2665  -  MemoryUsage of job (MB)
+	2729964  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:41:46 Image size of job updated: 2930
+	2930  -  MemoryUsage of job (MB)
+	3000652  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:46:46 Image size of job updated: 3238
+	3238  -  MemoryUsage of job (MB)
+	3316660  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:51:46 Image size of job updated: 3537
+	3537  -  MemoryUsage of job (MB)
+	3622008  -  ResidentSetSize of job (KB)
+...
+006 (15165477.022.000) 2022-02-28 01:56:47 Image size of job updated: 3539
+	3539  -  MemoryUsage of job (MB)
+	3624484  -  ResidentSetSize of job (KB)
+...
+007 (15165477.022.000) 2022-03-03 00:46:10 Shadow exception!
+	Error from slot1_3@e134.chtc.wisc.edu: Job failed to complete in 72 hrs
+	0  -  Run Bytes Sent By Job
+	131040264  -  Run Bytes Received By Job
+...
+012 (15165477.022.000) 2022-03-03 00:46:10 Job was held.
+	Error from slot1_3@e134.chtc.wisc.edu: Job failed to complete in 72 hrs
+	Code 21 Subcode 0
+...

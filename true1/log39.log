@@ -1,0 +1,77 @@
+000 (15165480.039.000) 2022-02-28 00:26:11 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165480.039.000) 2022-02-28 01:04:49 Started transferring input files
+	Transferring to host: <128.105.245.28:9618?addrs=128.105.245.28-9618&alias=e3228.chtc.wisc.edu&noUDP&sock=slot1_5_15523_1b90_23803>
+...
+001 (15165480.039.000) 2022-02-28 01:05:05 Job executing on host: <128.105.245.28:9618?addrs=128.105.245.28-9618&alias=e3228.chtc.wisc.edu&noUDP&sock=startd_1614_a5f2>
+...
+040 (15165480.039.000) 2022-02-28 01:05:05 Finished transferring input files
+...
+006 (15165480.039.000) 2022-02-28 01:05:14 Image size of job updated: 85
+	85  -  MemoryUsage of job (MB)
+	87892  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:10:14 Image size of job updated: 460
+	460  -  MemoryUsage of job (MB)
+	471304  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:15:14 Image size of job updated: 742
+	742  -  MemoryUsage of job (MB)
+	760636  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:20:37 Image size of job updated: 753
+	753  -  MemoryUsage of job (MB)
+	771236  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:25:14 Image size of job updated: 772
+	772  -  MemoryUsage of job (MB)
+	791432  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:30:14 Image size of job updated: 797
+	797  -  MemoryUsage of job (MB)
+	816876  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:35:15 Image size of job updated: 818
+	818  -  MemoryUsage of job (MB)
+	837776  -  ResidentSetSize of job (KB)
+...
+006 (15165480.039.000) 2022-02-28 01:37:45 Image size of job updated: 1140
+	1140  -  MemoryUsage of job (MB)
+	1167880  -  ResidentSetSize of job (KB)
+...
+040 (15165480.039.000) 2022-02-28 01:43:53 Entered queue to transfer output files
+...
+022 (15165480.039.000) 2022-02-28 01:44:55 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_5@e3228.chtc.wisc.edu <128.105.245.28:9618?addrs=128.105.245.28-9618&alias=e3228.chtc.wisc.edu&noUDP&sock=startd_1614_a5f2>
+...
+023 (15165480.039.000) 2022-02-28 01:44:55 Job reconnected to slot1_5@e3228.chtc.wisc.edu
+    startd address: <128.105.245.28:9618?addrs=128.105.245.28-9618&alias=e3228.chtc.wisc.edu&noUDP&sock=startd_1614_a5f2>
+    starter address: <128.105.245.28:9618?addrs=128.105.245.28-9618&alias=e3228.chtc.wisc.edu&noUDP&sock=slot1_5_15523_1b90_23803>
+...
+040 (15165480.039.000) 2022-02-28 01:44:55 Finished transferring output files
+...
+040 (15165480.039.000) 2022-02-28 01:45:43 Entered queue to transfer output files
+...
+040 (15165480.039.000) 2022-02-28 01:46:17 Started transferring output files
+...
+040 (15165480.039.000) 2022-02-28 01:46:46 Finished transferring output files
+...
+005 (15165480.039.000) 2022-02-28 01:47:13 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:55:05, Sys 0 00:00:35  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:55:05, Sys 0 00:00:35  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	33985  -  Run Bytes Sent By Job
+	131040256  -  Run Bytes Received By Job
+	33985  -  Total Bytes Sent By Job
+	131040256  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :   163691   419431   1357029 
+	   IoHeavy              :                           0 
+	   Memory (MB)          :     1140     2151      2176 
+
+	Job terminated of its own accord at 2022-02-28T07:37:45Z with exit-code 0.
+...

@@ -1,0 +1,97 @@
+000 (15165477.058.000) 2022-02-28 00:26:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15165477.058.000) 2022-02-28 00:58:44 Entered queue to transfer input files
+	Transferring to host: <128.105.245.199:9618?addrs=128.105.245.199-9618&alias=e2399.chtc.wisc.edu&noUDP&sock=slot1_1_24939_880f_27425>
+...
+040 (15165477.058.000) 2022-02-28 00:58:50 Started transferring input files
+	Seconds spent in queue: 6
+...
+001 (15165477.058.000) 2022-02-28 00:58:51 Job executing on host: <128.105.245.199:9618?addrs=128.105.245.199-9618&alias=e2399.chtc.wisc.edu&noUDP&sock=startd_2794_07b3>
+...
+040 (15165477.058.000) 2022-02-28 00:58:51 Finished transferring input files
+...
+006 (15165477.058.000) 2022-02-28 01:00:13 Image size of job updated: 50
+	50  -  MemoryUsage of job (MB)
+	51492  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:05:14 Image size of job updated: 1051
+	1051  -  MemoryUsage of job (MB)
+	1076904  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:10:15 Image size of job updated: 1169
+	1169  -  MemoryUsage of job (MB)
+	1197816  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:15:15 Image size of job updated: 1396
+	1396  -  MemoryUsage of job (MB)
+	1429520  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:20:15 Image size of job updated: 1616
+	1616  -  MemoryUsage of job (MB)
+	1655296  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:25:15 Image size of job updated: 1909
+	1909  -  MemoryUsage of job (MB)
+	1954936  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:32:28 Image size of job updated: 1918
+	1918  -  MemoryUsage of job (MB)
+	1964036  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:39:07 Image size of job updated: 2046
+	2046  -  MemoryUsage of job (MB)
+	2095916  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:44:27 Image size of job updated: 2083
+	2083  -  MemoryUsage of job (MB)
+	2133348  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:49:27 Image size of job updated: 2202
+	2202  -  MemoryUsage of job (MB)
+	2255128  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:54:28 Image size of job updated: 2321
+	2321  -  MemoryUsage of job (MB)
+	2376916  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 01:59:29 Image size of job updated: 2457
+	2457  -  MemoryUsage of job (MB)
+	2516976  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:04:29 Image size of job updated: 2607
+	2607  -  MemoryUsage of job (MB)
+	2670084  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:09:29 Image size of job updated: 2760
+	2760  -  MemoryUsage of job (MB)
+	2826484  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:14:30 Image size of job updated: 2915
+	2915  -  MemoryUsage of job (MB)
+	2985304  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:19:30 Image size of job updated: 3106
+	3106  -  MemoryUsage of job (MB)
+	3181348  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:24:31 Image size of job updated: 3303
+	3303  -  MemoryUsage of job (MB)
+	3382936  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:29:31 Image size of job updated: 3472
+	3472  -  MemoryUsage of job (MB)
+	3556000  -  ResidentSetSize of job (KB)
+...
+006 (15165477.058.000) 2022-02-28 02:35:42 Image size of job updated: 3532
+	3532  -  MemoryUsage of job (MB)
+	3616788  -  ResidentSetSize of job (KB)
+...
+007 (15165477.058.000) 2022-03-03 00:58:44 Shadow exception!
+	Error from slot1_1@e2399.chtc.wisc.edu: Job failed to complete in 72 hrs
+	0  -  Run Bytes Sent By Job
+	131040264  -  Run Bytes Received By Job
+...
+012 (15165477.058.000) 2022-03-03 00:58:44 Job was held.
+	Error from slot1_1@e2399.chtc.wisc.edu: Job failed to complete in 72 hrs
+	Code 21 Subcode 0
+...
